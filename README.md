@@ -1,9 +1,9 @@
-VectorPapers Zero
+IllustDrawing Pad
 =================
 
-VectorPapers Zero is a vector illustration app designed from scratch for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
+IllustDrawing Pad is a vector illustration app designed from scratch for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
 
-VectorPapers Zero was designed with performance in mind – it can easily handle drawings with hundreds to thousands of shapes without bogging down. Export your finished illustrations directly to your iCloud Drive
+IllustDrawing Pad was designed with performance in mind – it can easily handle drawings with hundreds to thousands of shapes without bogging down. Export your finished illustrations directly to your iCloud Drive
 
 see the original source code at: https://github.com/sprang/Inkpad
 
@@ -28,12 +28,12 @@ Features:
 * Export SVG, PDF, PNG, and JPEG
 * Import and Export directly to your iCloud Drive.
 
-VectorPapers Zero requires iOS 8. It is available on the [App Store](https://itunes.apple.com/us/app/vectorpapers-for-iphone/id995908582?l=en&ls=1&mt=8).
+IllustDrawing Pad requires iOS 8. It is available on the [App Store](https://itunes.apple.com/us/app/illust-drawing-pad/id1022769019?l=en&ls=1&mt=8).
 
 License
 -------
 
-VectorPapers Zero is Free/Libre Open Source Software. It is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/).
+IllustDrawing Pad is Free/Libre Open Source Software. It is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/).
 =======
 
 
